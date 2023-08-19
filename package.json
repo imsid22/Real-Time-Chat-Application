@@ -1,0 +1,27 @@
+{
+  "name": "real-time-chat-application",
+  "version": "1.0.0",
+  "description": "An app to allow real-time message communication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imsid22/Real-Time-Chat-Application.git"
+  },
+  "keywords": [
+    "chat",
+    "real-time",
+    "express",
+    "websocket",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Siddhant Dube <siddhantd94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imsid22/Real-Time-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/imsid22/Real-Time-Chat-Application#readme"
+}

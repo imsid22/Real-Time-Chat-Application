@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/imsid22/Real-Time-Chat-Application/issues"
   },
-  "homepage": "https://github.com/imsid22/Real-Time-Chat-Application#readme"
+  "homepage": "https://github.com/imsid22/Real-Time-Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3",
+    "ws": "^8.13.0"
+  }
 }
